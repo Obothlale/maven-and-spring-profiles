@@ -1,0 +1,4 @@
+message: this is development
+server:
+  servlet:
+    context-path: /first-context
